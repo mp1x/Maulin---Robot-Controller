@@ -13,5 +13,4 @@ Simulation link: https://wokwi.com/projects/468589263635231745
 - /schematic — KiCad schematic + PNG/PDF
 - /pcb — PCB layout screenshots + 3D view
 - /firmware — ESP32 code
-- /docs — Project report + notes
 - /wokwi — Simulation files
